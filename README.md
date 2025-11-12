@@ -54,6 +54,6 @@ E hospedar os arquivos gerados no serviço de sua preferência (Netlify, Vercel,
 - Incluí um JSON com 60 perfis fictícios em `src/data/profiles.json`.
 
 ----
-Gerado automaticamente para entrega por:
+Eentrega por:
 Felipe Bernardes — RM 564360
 Guilherme Romero — RM 564431
