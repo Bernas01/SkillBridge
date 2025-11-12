@@ -47,9 +47,8 @@ npm run build
 ```
 E hospedar os arquivos gerados no serviço de sua preferência (Netlify, Vercel, GitHub Pages, etc.)
 
-## Link do deploy / repositório
-- **Link do repositório:** (adicione o URL do seu GitHub)
-- **Link do deploy:** (adicione URL do deploy)
+## Link do repositório
+- **Link do repositório:** (https://github.com/Bernas01/SkillBridge.git)
 
 ## Observações finais
 - O repositório deve conter pelo menos 10 commits para a disciplina. Faça commits incrementais enquanto desenvolve.
