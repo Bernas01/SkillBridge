@@ -1,0 +1,3242 @@
+[
+  {
+    "id": 1,
+    "nome": "Nome Exemplo 1",
+    "foto": "https://i.pravatar.cc/150?img=2",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional com experiência em Design e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "React",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Design",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Nome Exemplo 2",
+    "foto": "https://i.pravatar.cc/150?img=3",
+    "cargo": "Product Manager",
+    "resumo": "Profissional com experiência em Data Science e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Data Science",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "SQL"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 3",
+        "cargo": "Product Manager",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 2",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Data Science",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Nome Exemplo 3",
+    "foto": "https://i.pravatar.cc/150?img=4",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com experiência em Produto e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "SQL",
+      "NoSQL"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 4",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 3",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Produto",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Nome Exemplo 4",
+    "foto": "https://i.pravatar.cc/150?img=5",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional com experiência em Negócios e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Curitiba/PR",
+    "area": "Negócios",
+    "habilidadesTecnicas": [
+      "SQL",
+      "NoSQL",
+      "Docker"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 5",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 4",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Negócios",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Nome Exemplo 5",
+    "foto": "https://i.pravatar.cc/150?img=6",
+    "cargo": "Engenheiro DevOps",
+    "resumo": "Profissional com experiência em Infra e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Salvador/BA",
+    "area": "Infra",
+    "habilidadesTecnicas": [
+      "NoSQL",
+      "Docker",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 6",
+        "cargo": "Engenheiro DevOps",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 5",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Infra",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Nome Exemplo 6",
+    "foto": "https://i.pravatar.cc/150?img=7",
+    "cargo": "Analista de QA",
+    "resumo": "Profissional com experiência em UX e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Fortaleza/CE",
+    "area": "UX",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Kubernetes",
+      "TensorFlow"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 7",
+        "cargo": "Analista de QA",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 6",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "UX",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Nome Exemplo 7",
+    "foto": "https://i.pravatar.cc/150?img=8",
+    "cargo": "Full Stack Developer",
+    "resumo": "Profissional com experiência em Marketing e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Brasília/DF",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "softSkills": [
+      "Organização",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 8",
+        "cargo": "Full Stack Developer",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 7",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Marketing",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Nome Exemplo 8",
+    "foto": "https://i.pravatar.cc/150?img=9",
+    "cargo": "Especialista em IA",
+    "resumo": "Profissional com experiência em Sustentabilidade e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Campinas/SP",
+    "area": "Sustentabilidade",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "PyTorch",
+      "AWS"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Curiosidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 9",
+        "cargo": "Especialista em IA",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 8",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Nome Exemplo 9",
+    "foto": "https://i.pravatar.cc/150?img=10",
+    "cargo": "Consultor de Sustentabilidade",
+    "resumo": "Profissional com experiência em Educação e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "PyTorch",
+      "AWS",
+      "GCP"
+    ],
+    "softSkills": [
+      "Curiosidade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 10",
+        "cargo": "Consultor de Sustentabilidade",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 9",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Nome Exemplo 10",
+    "foto": "https://i.pravatar.cc/150?img=11",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em Desenvolvimento e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "AWS",
+      "GCP",
+      "HTML"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 10",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Desenvolvimento",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Nome Exemplo 11",
+    "foto": "https://i.pravatar.cc/150?img=12",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional com experiência em Design e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "GCP",
+      "HTML",
+      "CSS"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 11",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Design",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Nome Exemplo 12",
+    "foto": "https://i.pravatar.cc/150?img=13",
+    "cargo": "Product Manager",
+    "resumo": "Profissional com experiência em Data Science e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Data Science",
+    "habilidadesTecnicas": [
+      "HTML",
+      "CSS",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 3",
+        "cargo": "Product Manager",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 12",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Data Science",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Nome Exemplo 13",
+    "foto": "https://i.pravatar.cc/150?img=14",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com experiência em Produto e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "CSS",
+      "TypeScript",
+      "Python"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 4",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 13",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Produto",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Nome Exemplo 14",
+    "foto": "https://i.pravatar.cc/150?img=15",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional com experiência em Negócios e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Curitiba/PR",
+    "area": "Negócios",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "Python",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 5",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 14",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Negócios",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Nome Exemplo 15",
+    "foto": "https://i.pravatar.cc/150?img=16",
+    "cargo": "Engenheiro DevOps",
+    "resumo": "Profissional com experiência em Infra e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Salvador/BA",
+    "area": "Infra",
+    "habilidadesTecnicas": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 6",
+        "cargo": "Engenheiro DevOps",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 15",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Infra",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Nome Exemplo 16",
+    "foto": "https://i.pravatar.cc/150?img=17",
+    "cargo": "Analista de QA",
+    "resumo": "Profissional com experiência em UX e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Fortaleza/CE",
+    "area": "UX",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "React",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 7",
+        "cargo": "Analista de QA",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 16",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "UX",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Nome Exemplo 17",
+    "foto": "https://i.pravatar.cc/150?img=18",
+    "cargo": "Full Stack Developer",
+    "resumo": "Profissional com experiência em Marketing e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Brasília/DF",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "SQL"
+    ],
+    "softSkills": [
+      "Organização",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 8",
+        "cargo": "Full Stack Developer",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 17",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Marketing",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Nome Exemplo 18",
+    "foto": "https://i.pravatar.cc/150?img=19",
+    "cargo": "Especialista em IA",
+    "resumo": "Profissional com experiência em Sustentabilidade e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Campinas/SP",
+    "area": "Sustentabilidade",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "SQL",
+      "NoSQL"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Curiosidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 9",
+        "cargo": "Especialista em IA",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 18",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Nome Exemplo 19",
+    "foto": "https://i.pravatar.cc/150?img=20",
+    "cargo": "Consultor de Sustentabilidade",
+    "resumo": "Profissional com experiência em Educação e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "SQL",
+      "NoSQL",
+      "Docker"
+    ],
+    "softSkills": [
+      "Curiosidade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 10",
+        "cargo": "Consultor de Sustentabilidade",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 19",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Nome Exemplo 20",
+    "foto": "https://i.pravatar.cc/150?img=21",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em Desenvolvimento e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "NoSQL",
+      "Docker",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 20",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Desenvolvimento",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Nome Exemplo 21",
+    "foto": "https://i.pravatar.cc/150?img=22",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional com experiência em Design e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Kubernetes",
+      "TensorFlow"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 21",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Design",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Nome Exemplo 22",
+    "foto": "https://i.pravatar.cc/150?img=23",
+    "cargo": "Product Manager",
+    "resumo": "Profissional com experiência em Data Science e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Data Science",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 3",
+        "cargo": "Product Manager",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 22",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Data Science",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Nome Exemplo 23",
+    "foto": "https://i.pravatar.cc/150?img=24",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com experiência em Produto e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "PyTorch",
+      "AWS"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 4",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 23",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Produto",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Nome Exemplo 24",
+    "foto": "https://i.pravatar.cc/150?img=25",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional com experiência em Negócios e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Curitiba/PR",
+    "area": "Negócios",
+    "habilidadesTecnicas": [
+      "PyTorch",
+      "AWS",
+      "GCP"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 5",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 24",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Negócios",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Nome Exemplo 25",
+    "foto": "https://i.pravatar.cc/150?img=26",
+    "cargo": "Engenheiro DevOps",
+    "resumo": "Profissional com experiência em Infra e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Salvador/BA",
+    "area": "Infra",
+    "habilidadesTecnicas": [
+      "AWS",
+      "GCP",
+      "HTML"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 6",
+        "cargo": "Engenheiro DevOps",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 25",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Infra",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Nome Exemplo 26",
+    "foto": "https://i.pravatar.cc/150?img=27",
+    "cargo": "Analista de QA",
+    "resumo": "Profissional com experiência em UX e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Fortaleza/CE",
+    "area": "UX",
+    "habilidadesTecnicas": [
+      "GCP",
+      "HTML",
+      "CSS"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 7",
+        "cargo": "Analista de QA",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 26",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "UX",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Nome Exemplo 27",
+    "foto": "https://i.pravatar.cc/150?img=28",
+    "cargo": "Full Stack Developer",
+    "resumo": "Profissional com experiência em Marketing e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Brasília/DF",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "HTML",
+      "CSS",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Organização",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 8",
+        "cargo": "Full Stack Developer",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 27",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Marketing",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Nome Exemplo 28",
+    "foto": "https://i.pravatar.cc/150?img=29",
+    "cargo": "Especialista em IA",
+    "resumo": "Profissional com experiência em Sustentabilidade e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Campinas/SP",
+    "area": "Sustentabilidade",
+    "habilidadesTecnicas": [
+      "CSS",
+      "TypeScript",
+      "Python"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Curiosidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 9",
+        "cargo": "Especialista em IA",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 28",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Nome Exemplo 29",
+    "foto": "https://i.pravatar.cc/150?img=30",
+    "cargo": "Consultor de Sustentabilidade",
+    "resumo": "Profissional com experiência em Educação e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "Python",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Curiosidade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 10",
+        "cargo": "Consultor de Sustentabilidade",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 29",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Nome Exemplo 30",
+    "foto": "https://i.pravatar.cc/150?img=31",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em Desenvolvimento e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 30",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Desenvolvimento",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Nome Exemplo 31",
+    "foto": "https://i.pravatar.cc/150?img=32",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional com experiência em Design e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "React",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 31",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Design",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Nome Exemplo 32",
+    "foto": "https://i.pravatar.cc/150?img=33",
+    "cargo": "Product Manager",
+    "resumo": "Profissional com experiência em Data Science e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Data Science",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "SQL"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 3",
+        "cargo": "Product Manager",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 32",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Data Science",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Nome Exemplo 33",
+    "foto": "https://i.pravatar.cc/150?img=34",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com experiência em Produto e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "SQL",
+      "NoSQL"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 4",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 33",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Produto",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Nome Exemplo 34",
+    "foto": "https://i.pravatar.cc/150?img=35",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional com experiência em Negócios e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Curitiba/PR",
+    "area": "Negócios",
+    "habilidadesTecnicas": [
+      "SQL",
+      "NoSQL",
+      "Docker"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 5",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 34",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Negócios",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Nome Exemplo 35",
+    "foto": "https://i.pravatar.cc/150?img=36",
+    "cargo": "Engenheiro DevOps",
+    "resumo": "Profissional com experiência em Infra e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Salvador/BA",
+    "area": "Infra",
+    "habilidadesTecnicas": [
+      "NoSQL",
+      "Docker",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 6",
+        "cargo": "Engenheiro DevOps",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 35",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Infra",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Nome Exemplo 36",
+    "foto": "https://i.pravatar.cc/150?img=37",
+    "cargo": "Analista de QA",
+    "resumo": "Profissional com experiência em UX e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Fortaleza/CE",
+    "area": "UX",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Kubernetes",
+      "TensorFlow"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 7",
+        "cargo": "Analista de QA",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 36",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "UX",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Nome Exemplo 37",
+    "foto": "https://i.pravatar.cc/150?img=38",
+    "cargo": "Full Stack Developer",
+    "resumo": "Profissional com experiência em Marketing e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Brasília/DF",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "softSkills": [
+      "Organização",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 8",
+        "cargo": "Full Stack Developer",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 37",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Marketing",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Nome Exemplo 38",
+    "foto": "https://i.pravatar.cc/150?img=39",
+    "cargo": "Especialista em IA",
+    "resumo": "Profissional com experiência em Sustentabilidade e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Campinas/SP",
+    "area": "Sustentabilidade",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "PyTorch",
+      "AWS"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Curiosidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 9",
+        "cargo": "Especialista em IA",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 38",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Nome Exemplo 39",
+    "foto": "https://i.pravatar.cc/150?img=40",
+    "cargo": "Consultor de Sustentabilidade",
+    "resumo": "Profissional com experiência em Educação e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "PyTorch",
+      "AWS",
+      "GCP"
+    ],
+    "softSkills": [
+      "Curiosidade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 10",
+        "cargo": "Consultor de Sustentabilidade",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 39",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Nome Exemplo 40",
+    "foto": "https://i.pravatar.cc/150?img=41",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em Desenvolvimento e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "AWS",
+      "GCP",
+      "HTML"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 40",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Desenvolvimento",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Nome Exemplo 41",
+    "foto": "https://i.pravatar.cc/150?img=42",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional com experiência em Design e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "GCP",
+      "HTML",
+      "CSS"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 41",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Design",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "Nome Exemplo 42",
+    "foto": "https://i.pravatar.cc/150?img=43",
+    "cargo": "Product Manager",
+    "resumo": "Profissional com experiência em Data Science e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Data Science",
+    "habilidadesTecnicas": [
+      "HTML",
+      "CSS",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 3",
+        "cargo": "Product Manager",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 42",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Data Science",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Nome Exemplo 43",
+    "foto": "https://i.pravatar.cc/150?img=44",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com experiência em Produto e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "CSS",
+      "TypeScript",
+      "Python"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 4",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 43",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Produto",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Nome Exemplo 44",
+    "foto": "https://i.pravatar.cc/150?img=45",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional com experiência em Negócios e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Curitiba/PR",
+    "area": "Negócios",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "Python",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 5",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 44",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Negócios",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Nome Exemplo 45",
+    "foto": "https://i.pravatar.cc/150?img=46",
+    "cargo": "Engenheiro DevOps",
+    "resumo": "Profissional com experiência em Infra e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Salvador/BA",
+    "area": "Infra",
+    "habilidadesTecnicas": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 6",
+        "cargo": "Engenheiro DevOps",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 45",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Infra",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Nome Exemplo 46",
+    "foto": "https://i.pravatar.cc/150?img=47",
+    "cargo": "Analista de QA",
+    "resumo": "Profissional com experiência em UX e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Fortaleza/CE",
+    "area": "UX",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "React",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 7",
+        "cargo": "Analista de QA",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 46",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "UX",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Nome Exemplo 47",
+    "foto": "https://i.pravatar.cc/150?img=48",
+    "cargo": "Full Stack Developer",
+    "resumo": "Profissional com experiência em Marketing e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Brasília/DF",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "SQL"
+    ],
+    "softSkills": [
+      "Organização",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 8",
+        "cargo": "Full Stack Developer",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 47",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Marketing",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Nome Exemplo 48",
+    "foto": "https://i.pravatar.cc/150?img=49",
+    "cargo": "Especialista em IA",
+    "resumo": "Profissional com experiência em Sustentabilidade e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Campinas/SP",
+    "area": "Sustentabilidade",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "SQL",
+      "NoSQL"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Curiosidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 9",
+        "cargo": "Especialista em IA",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 48",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Nome Exemplo 49",
+    "foto": "https://i.pravatar.cc/150?img=50",
+    "cargo": "Consultor de Sustentabilidade",
+    "resumo": "Profissional com experiência em Educação e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "SQL",
+      "NoSQL",
+      "Docker"
+    ],
+    "softSkills": [
+      "Curiosidade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 10",
+        "cargo": "Consultor de Sustentabilidade",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 49",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Nome Exemplo 50",
+    "foto": "https://i.pravatar.cc/150?img=51",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em Desenvolvimento e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "NoSQL",
+      "Docker",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 50",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Desenvolvimento",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Nome Exemplo 51",
+    "foto": "https://i.pravatar.cc/150?img=52",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional com experiência em Design e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Kubernetes",
+      "TensorFlow"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 51",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Design",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Nome Exemplo 52",
+    "foto": "https://i.pravatar.cc/150?img=53",
+    "cargo": "Product Manager",
+    "resumo": "Profissional com experiência em Data Science e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Data Science",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 3",
+        "cargo": "Product Manager",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 52",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Data Science",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Nome Exemplo 53",
+    "foto": "https://i.pravatar.cc/150?img=54",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com experiência em Produto e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "PyTorch",
+      "AWS"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 4",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 53",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Produto",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Nome Exemplo 54",
+    "foto": "https://i.pravatar.cc/150?img=55",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional com experiência em Negócios e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Curitiba/PR",
+    "area": "Negócios",
+    "habilidadesTecnicas": [
+      "PyTorch",
+      "AWS",
+      "GCP"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 5",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 54",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Negócios",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Nome Exemplo 55",
+    "foto": "https://i.pravatar.cc/150?img=56",
+    "cargo": "Engenheiro DevOps",
+    "resumo": "Profissional com experiência em Infra e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Salvador/BA",
+    "area": "Infra",
+    "habilidadesTecnicas": [
+      "AWS",
+      "GCP",
+      "HTML"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 6",
+        "cargo": "Engenheiro DevOps",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 55",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Infra",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Nome Exemplo 56",
+    "foto": "https://i.pravatar.cc/150?img=57",
+    "cargo": "Analista de QA",
+    "resumo": "Profissional com experiência em UX e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Fortaleza/CE",
+    "area": "UX",
+    "habilidadesTecnicas": [
+      "GCP",
+      "HTML",
+      "CSS"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 7",
+        "cargo": "Analista de QA",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 56",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "UX",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Nome Exemplo 57",
+    "foto": "https://i.pravatar.cc/150?img=58",
+    "cargo": "Full Stack Developer",
+    "resumo": "Profissional com experiência em Marketing e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Brasília/DF",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "HTML",
+      "CSS",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Organização",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 8",
+        "cargo": "Full Stack Developer",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 57",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Marketing",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Nome Exemplo 58",
+    "foto": "https://i.pravatar.cc/150?img=59",
+    "cargo": "Especialista em IA",
+    "resumo": "Profissional com experiência em Sustentabilidade e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Campinas/SP",
+    "area": "Sustentabilidade",
+    "habilidadesTecnicas": [
+      "CSS",
+      "TypeScript",
+      "Python"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Curiosidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 9",
+        "cargo": "Especialista em IA",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 58",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Nome Exemplo 59",
+    "foto": "https://i.pravatar.cc/150?img=60",
+    "cargo": "Consultor de Sustentabilidade",
+    "resumo": "Profissional com experiência em Educação e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "Python",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Curiosidade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 10",
+        "cargo": "Consultor de Sustentabilidade",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 59",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Nome Exemplo 60",
+    "foto": "https://i.pravatar.cc/150?img=61",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em Desenvolvimento e foco em soluções com impacto social e tecnológico.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 60",
+        "link": "https://example.com",
+        "descricao": "Projeto de curso com aplicação real."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Desenvolvimento",
+      "IA ética"
+    ]
+  }
+]
