@@ -51,9 +51,7 @@ E hospedar os arquivos gerados no serviço de sua preferência (Netlify, Vercel,
 - **Link do repositório:** (https://github.com/Bernas01/SkillBridge.git)
 
 ## Observações finais
-- O repositório deve conter pelo menos 10 commits para a disciplina. Faça commits incrementais enquanto desenvolve.
 - Incluí um JSON com 60 perfis fictícios em `src/data/profiles.json`.
-- Para dúvidas ou customizações (tema/cores/funcionalidades) entre em contato.
 
 ----
 Gerado automaticamente para entrega por:
